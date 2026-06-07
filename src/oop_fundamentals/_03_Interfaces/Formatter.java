@@ -1,4 +1,4 @@
-package _03_Interfaces;
+package oop_fundamentals._03_Interfaces;
 
 public interface Formatter {
     String format(String message);

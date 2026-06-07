@@ -1,4 +1,4 @@
-package _01_Classes_And_Objects;
+package oop_fundamentals._01_Classes_And_Objects;
 
 public class BankAccount {
     private String accountNumber;

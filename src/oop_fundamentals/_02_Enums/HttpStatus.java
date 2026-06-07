@@ -1,4 +1,4 @@
-package _02_Enums;
+package oop_fundamentals._02_Enums;
 
 public enum HttpStatus {
     OK(200, "OK"),

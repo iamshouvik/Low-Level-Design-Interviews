@@ -1,4 +1,4 @@
-package _02_Enums;
+package oop_fundamentals._02_Enums;
 
 public enum TrafficLight {
     RED(30),

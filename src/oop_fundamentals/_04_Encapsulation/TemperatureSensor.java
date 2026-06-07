@@ -1,4 +1,4 @@
-package _04_Encapsulation;
+package oop_fundamentals._04_Encapsulation;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
